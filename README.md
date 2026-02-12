@@ -1,16 +1,64 @@
-# co_ui
+# 🍔 Checkout Flow Food Delivery App UI - Flutter
 
-A new Flutter project.
+A modern and responsive **Food Delivery Application UI** built with Flutter. This project demonstrates a clean implementation of Cart management and Checkout flows with interactive state management.
 
-## Getting Started
+![Project Banner](https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=1000&auto=format&fit=crop)
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- **🛒 Dynamic Cart Management:**
+  - Real-time quantity updates (increment/decrement).
+  - Automatic calculation of Subtotal, Tax, Delivery Fee, and Grand Total.
+  - IDR (Rupiah) currency formatting.
+- **💳 Interactive Checkout:**
+  - Payment method selection (Radio button logic).
+  - Simulated payment processing with loading indicators.
+- **🎨 UI/UX Design:**
+  - Modern **Material 3** design.
+  - Custom rounded shapes and soft shadows.
+  - **Lottie Animation** integration for success dialogs.
+- **Clean Code:**
+  - Modular widget structure for reusability.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Framework:** [Flutter](https://flutter.dev/)
+- **Language:** Dart
+- **External Packages:**
+  - [`lottie`](https://pub.dev/packages/lottie) - For high-quality animations.
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+- Flutter SDK installed on your machine.
+- An IDE (VS Code or Android Studio).
+
+### Installation
+
+1.  **Clone the repository**
+
+    ```bash
+    git clone [https://github.com/Faik-irkham/co_ui.git](https://github.com/Faik-irkham/co_ui.git)
+    ```
+
+2.  **Navigate to the project directory**
+
+    ```bash
+    cd co_ui
+    ```
+
+3.  **Install dependencies**
+
+    ```bash
+    flutter pub get
+    ```
+
+4.  **Run the app**
+    ```bash
+    flutter run
+    ```
+
+## 📂 Project Structure
