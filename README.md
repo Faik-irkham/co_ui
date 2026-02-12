@@ -67,4 +67,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-_Created with ❤️ by [Flutfy]_
+_Created with ❤️ by [Faik Irkham](https://www.faikirkham.my.id/)_
