@@ -41,7 +41,7 @@ Follow these steps to run the project locally.
 1.  **Clone the repository**
 
     ```bash
-    git clone [https://github.com/Faik-irkham/co_ui.git](https://github.com/Faik-irkham/co_ui.git)
+    git clone https://github.com/Faik-irkham/co_ui.git
     ```
 
 2.  **Navigate to the project directory**
@@ -61,4 +61,10 @@ Follow these steps to run the project locally.
     flutter run
     ```
 
-## 📂 Project Structure
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+_Created with ❤️ by [Flutfy]_
